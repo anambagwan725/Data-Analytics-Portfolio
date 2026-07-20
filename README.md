@@ -1,5 +1,5 @@
 # data analytics portfolio
-Hi, I,am Anam.
+Hi, I'am Anam.
 
 this repository contains my data analytics projects.
 
